@@ -24,9 +24,6 @@ a{
 .header-link:focus{
     color: var(--hover-color);
 }
-.main{
-
-}
 .title,
 .card-title
 {
